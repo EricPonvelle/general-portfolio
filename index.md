@@ -40,7 +40,8 @@ Fiction writing, while not exemplary samples of my ability to write business con
 
 This section includes essays, articles, and other items that I've written. I have also included some professional writing samples in here.
 
-- [Writing Samples](https://github.com/EricPonvelle/writing-samples): This repository contains some sanitized samples that I can share. For some more specific ones, please reach out.
+- [Writing Samples](https://github.com/EricPonvelle/collection/tree/master/Samples): This repository contains some sanitized samples that I can share. For some more specific ones, please reach out.
+- [Reviews](https://github.com/EricPonvelle/collection/tree/master/Reviews): This is a collection of short reviews I've written.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
