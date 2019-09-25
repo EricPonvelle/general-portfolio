@@ -23,6 +23,7 @@ Here's a list of projects to which I've committed.
 ### Blog Posts
 
 I've pared down my blog posts to be mostly essays that I've enjoyed exploring. I think this skill helps me focus my ideas in a more cogent way while being often abstract concepts.
+- [Link to Posts](https://github.com/EricPonvelle/collection/tree/master/Blog)
 
 ---
 
