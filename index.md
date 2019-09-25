@@ -28,10 +28,10 @@ I've pared down my blog posts to be mostly essays that I've enjoyed exploring. I
 
 ### Fiction
 
-Fiction writing, while not exemplary samples of my ability to write business content, is important to my mental health. I often write stories in my head that take time to make any sense on paper. This keeps me entertained, curious, and attempting new things all the time. Through fiction, I've found my voice, and I find these to be a really important skill I've developed.
+Fiction writing, while not exemplary samples of my ability to write business content, is important to my mental health. I often write stories in my head that take time to make any sense on paper. This keeps me entertained, curious, and attempting new things all the time. Through fiction, I've found my voice, and I find this to be a really important skill I've developed.
 
 - [Short Stories](https://github.com/EricPonvelle/shortstories): I'm slowly porting over all my stories from Reddit. Most of my short stories are writing prompt exercises that I had some fun with; however, when I felt bold, I did some submissions to NoSleep.
-- [NaNoWriMo 2018](https://github.com/EricPonvelle/nanowrimo2018): While I self-published a book, I have never completed a NaNoWriMo until 2018. I thought this was a fun Urban Fantasy idea that stemmed from an alternate history story I never finished. I hope to edit and self-publish this soon.
+- [NaNoWriMo 2018](https://github.com/EricPonvelle/nanowrimo2018): While I self-published a book, I had never completed a NaNoWriMo until 2018. I thought this was a fun Urban Fantasy idea that stemmed from an alternate history story I never finished. I hope to edit and self-publish this soon.
 - [Flash Fiction](https://github.com/EricPonvelle/pennytheater/tree/master/flashfiction): This folder will hold the majority of my reddit writing prompts. I find the act of writing a story in a constrained manner to be very beneficial for character development.
 
 ---
