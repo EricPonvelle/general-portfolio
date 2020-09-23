@@ -12,7 +12,7 @@ As such, I've tried to categorize things as best as I can. As I create more, I'l
 
 ### Git Projects
 
-Working with Git, I am able to contribute to projects that actually need help. I tend to offer suggestions to established products and websites, but a lot of them are so large and established, my suggestions end up at the bottom of the queue. I like to follow [Code Triage](https://www.codetriage.com/) to find projects in need of my areas.
+Working with Git, I am able to contribute to projects that actually need help. I tend to offer suggestions to established products and websites, but a lot of them are so large and established, my suggestions end up at the bottom of the queue. I like to follow [Code Triage](https://www.codetriage.com/) to find projects in need of my areas of expertise.
 
 Here's a list of projects to which I've committed.
 - [Comixology Ripper](https://github.com/EricPonvelle/comixology-backup): This was a fun little project where I noticed when editing the settings of the Comixoloy DRM remover plug-in, I wasn't told anything I did was saved. This was the expected result, but I felt it created a poor experience. For my commit, I added a flag at the bottom of the screen that just says "Save" if you switch fields.
